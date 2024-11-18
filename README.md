@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">I’m an aspiring Software Engineer with a focus on backend development using JavaScript and Node.js. I have experience frontend development working primarily with React, Tailwind CSS. I am passionate about backend development and continuously honing my skills through hands-on projects and learning.I’m passionate about learning new technologies and growing ideas into impactful solutions. Check out my projects—I’m excited to connect and collaborate!</h3>
+<h4 align="center">I’m an aspiring Software Engineer focusing on backend development using JavaScript and Node.js. I have experience in frontend development working primarily with React, and Tailwind CSS. I am passionate about backend development and continuously honing my skills through hands-on projects and learning. I’m passionate about learning new technologies and growing ideas into impactful solutions. Check out my projects—I’m excited to connect and collaborate!</h4>
 
-- 🔭 I’m currently working on [note-taking-cli](https://github.com/Omar6624/note-taking-cli)
+- 🔭 I’m currently working on a personal project [note-taking-cli](https://github.com/Omar6624/note-taking-cli)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
