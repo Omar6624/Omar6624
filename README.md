@@ -33,5 +33,6 @@
 <a href="https://github.com/Omar6624/MusicPlayer"><img width="278" src="images\MusicPlayer.png" alt="MusicPlayer.png"style="border-radius: 8px"></a>
 <a href="https://github.com/Omar6624/Product-management-system"><img width="278" src="images\Product Management System.png" alt="Product-management-system.png"style="border-radius: 8px"></a>
 <a href="https://github.com/Omar6624/Text-to-speach"><img width="278" src="images\Text-to-Speach.png" alt="Text-to-speach.png"style="border-radius: 8px"></a>
+<a href="https://github.com/Omar6624/git-repo-card-create"><img width="278" src="images\Repo-card-creating-cli.png" alt="Repo-card-creating-cli.png"style="border-radius: 8px"></a>
 
 <a href="https://github.com/Omar6624?tab=repositories"><img alt="All Repositories" title="All Repositories" src="images\allrepo.png" style="border-radius: 2px" ></a>
