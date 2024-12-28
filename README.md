@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h4 align="center">I am a dedicated and driven software developer aiming to kick-start a rewarding career in the field, leveraging my self-study, determination, and ability to work collaboratively in development teams to deliver high-quality solutions, clean codes, and problem solving.</h4>
 
-- 🔭 I’m currently working on a personal project [note-taking-cli](https://github.com/Omar6624/note-taking-cli)
+- 🔭 I’m currently working on a personal project [Change-log API](https://github.com/Omar6624/ChangeLog-Api/)
 
 ---
 
